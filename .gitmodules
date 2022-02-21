@@ -1,0 +1,3 @@
+[submodule "DogFramework"]
+	path = DogFramework
+	url = https://github.com/DimgoZzz/DogFramework.git
