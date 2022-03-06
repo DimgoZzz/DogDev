@@ -14,5 +14,11 @@
     <ClCompile Include="Source\WinMain.cpp">
       <Filter>Source</Filter>
     </ClCompile>
+    <ClCompile Include="Source\Engine\EngineExample.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Engine\EngineExample.h" />
   </ItemGroup>
 </Project>
