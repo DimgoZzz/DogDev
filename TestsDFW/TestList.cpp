@@ -5,11 +5,11 @@
 #include "DFW/DString.h"
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
-namespace TestsDFW
+namespace TestDFW::Containers
 {
 	using namespace DogFW;
 
-	TEST_CLASS(Containers)
+	TEST_CLASS(ListTest)
 	{
 	public:
 		
@@ -27,6 +27,10 @@ namespace TestsDFW
 			}
 			Assert::AreEqual(L"105718", s.c_str());
 			Assert::AreEqual(5LLU, list.getSize());
+		}
+		TEST_METHOD(TestMethod2)
+		{
+
 		}
 	};
 }
