@@ -16,7 +16,7 @@ int WINAPI wWinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPWSTR, _In_ int)
 	for (int a = 0; a < 100; ++a)
 	{
 
-		for (int test = 0; test < 1000; ++test)
+		for (int test = 0; test < 100; ++test)
 		{
 			WString result;
 			Stopwatch clock;

@@ -15,33 +15,24 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Release|x64 = Release|x64
-		ReleaseKernel|x64 = ReleaseKernel|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B1E0A6E3-F855-498B-B0D6-254649B20B5F}.Debug|x64.ActiveCfg = Debug|x64
 		{B1E0A6E3-F855-498B-B0D6-254649B20B5F}.Debug|x64.Build.0 = Debug|x64
 		{B1E0A6E3-F855-498B-B0D6-254649B20B5F}.Release|x64.ActiveCfg = Release|x64
 		{B1E0A6E3-F855-498B-B0D6-254649B20B5F}.Release|x64.Build.0 = Release|x64
-		{B1E0A6E3-F855-498B-B0D6-254649B20B5F}.ReleaseKernel|x64.ActiveCfg = ReleaseKernel|x64
-		{B1E0A6E3-F855-498B-B0D6-254649B20B5F}.ReleaseKernel|x64.Build.0 = ReleaseKernel|x64
 		{9C13FE74-3648-4DDE-8AA8-02ACC8EB0EF6}.Debug|x64.ActiveCfg = Debug|x64
 		{9C13FE74-3648-4DDE-8AA8-02ACC8EB0EF6}.Debug|x64.Build.0 = Debug|x64
 		{9C13FE74-3648-4DDE-8AA8-02ACC8EB0EF6}.Release|x64.ActiveCfg = Release|x64
 		{9C13FE74-3648-4DDE-8AA8-02ACC8EB0EF6}.Release|x64.Build.0 = Release|x64
-		{9C13FE74-3648-4DDE-8AA8-02ACC8EB0EF6}.ReleaseKernel|x64.ActiveCfg = ReleaseKernel|x64
-		{9C13FE74-3648-4DDE-8AA8-02ACC8EB0EF6}.ReleaseKernel|x64.Build.0 = ReleaseKernel|x64
 		{1C2D8021-D68B-48E0-A67C-5DE5446CC379}.Debug|x64.ActiveCfg = Debug|x64
 		{1C2D8021-D68B-48E0-A67C-5DE5446CC379}.Debug|x64.Build.0 = Debug|x64
 		{1C2D8021-D68B-48E0-A67C-5DE5446CC379}.Release|x64.ActiveCfg = Release|x64
 		{1C2D8021-D68B-48E0-A67C-5DE5446CC379}.Release|x64.Build.0 = Release|x64
-		{1C2D8021-D68B-48E0-A67C-5DE5446CC379}.ReleaseKernel|x64.ActiveCfg = ReleaseKernel|x64
-		{1C2D8021-D68B-48E0-A67C-5DE5446CC379}.ReleaseKernel|x64.Build.0 = ReleaseKernel|x64
 		{71D4073F-ADF5-442E-98FF-330FCDC78B84}.Debug|x64.ActiveCfg = Debug|x64
 		{71D4073F-ADF5-442E-98FF-330FCDC78B84}.Debug|x64.Build.0 = Debug|x64
 		{71D4073F-ADF5-442E-98FF-330FCDC78B84}.Release|x64.ActiveCfg = Release|x64
 		{71D4073F-ADF5-442E-98FF-330FCDC78B84}.Release|x64.Build.0 = Release|x64
-		{71D4073F-ADF5-442E-98FF-330FCDC78B84}.ReleaseKernel|x64.ActiveCfg = Release|x64
-		{71D4073F-ADF5-442E-98FF-330FCDC78B84}.ReleaseKernel|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
