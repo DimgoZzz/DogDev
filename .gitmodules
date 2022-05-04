@@ -4,3 +4,6 @@
 [submodule "DogEngine"]
 	path = DogEngine
 	url = https://github.com/DimgoZzz/DogEngine.git
+[submodule "DogEditor"]
+	path = DogEditor
+	url = https://github.com/DimgoZzz/DogEditor.git
