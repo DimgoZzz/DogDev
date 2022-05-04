@@ -1,3 +1,6 @@
 [submodule "DogFramework"]
 	path = DogFramework
 	url = https://github.com/DimgoZzz/DogFramework.git
+[submodule "DogEngine"]
+	path = DogEngine
+	url = https://github.com/DimgoZzz/DogEngine.git
